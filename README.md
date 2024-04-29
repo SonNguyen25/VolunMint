@@ -1,4 +1,4 @@
-# VolunMint
+# VolunMint - Winner of ETHBoston Hackathon - Best Social Impact Solution in Boston 🏆
 
 
 ## Quick Demo
