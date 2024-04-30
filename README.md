@@ -34,3 +34,9 @@ Through our journey, we've gained significant technical insights into the intric
 ## What's next for VolunMint
 
 Looking ahead, we're excited to continue refining and expanding the VolunMint platform. We plan to explore new opportunities for collaboration with additional charities and businesses, enhance the functionality of our platform based on user feedback, and expand our impact to reach more communities.
+
+## Contributions
+- Bao Son Nguyen
+- Duc Anh Than
+- Jonathan Sudarpo
+- Vidyut Ramanan
